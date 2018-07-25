@@ -3,6 +3,7 @@
 
 <head>
   <title>Nayuki's site</title>
+  <link rel="stylesheet" type="text/css" "href="style.css"/>
   </head>
   
   <body>
